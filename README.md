@@ -1,6 +1,6 @@
-[![author](https://img.shields.io/badge/author-andrebastos85-red.svg)](https://www.linkedin.com/in/andrepombo) 
+[![author](https://img.shields.io/badge/author-andrepombo-red.svg)](https://www.linkedin.com/in/andrepombo) 
 [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/andrebastos85)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/andrepombo)
 
 <p align="center">
   <img src="/Banner1.jpg" width="1000" height="300" >
