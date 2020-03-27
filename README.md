@@ -3,7 +3,7 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/andrepombo)
 
 <p align="center">
-  <img src="/Banner1.jpg" width="1000" height="300" >
+  <img src="Banner1.jpg" width="1000" height="300" >
 </p>
 
 Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, Machine Learning e Deep Learning.
