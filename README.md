@@ -14,11 +14,12 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, M
 
 
 ## Projects:
-* **Teste:**  http://bit.ly/
+* **Sentiment Analysis ImdB with Google Api:**  https://bit.ly/2Jn7RVn
 
 
----
+
 
 ### About me
+---
 
 
