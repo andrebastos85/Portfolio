@@ -13,12 +13,12 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, M
 * [Medium](https://medium.com/@andrepombo)
 
 
-## Projetos:
+## Projects:
 * **Teste:**  http://bit.ly/
 
 
 ---
 
-### Sobre mim:
+### About me
 
 
