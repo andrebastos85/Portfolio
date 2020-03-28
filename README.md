@@ -8,6 +8,11 @@
 
 Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, Machine Learning e Deep Learning.
 
+**Links:**
+* [LinkedIn](https://www.linkedin.com/in/andrempombo/)
+* [Medium](https://medium.com/@andrebastos85)
+
+
 ## Projetos:
 Lista de projetos em Jupyter Notebook:
 
