@@ -10,7 +10,7 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, M
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/andrepombo/) 
-* [Medium](https://medium.com/@andrebastos85)
+* [Medium](https://medium.com/@andrepombo)
 
 
 ## Projetos:
