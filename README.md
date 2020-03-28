@@ -9,7 +9,7 @@
 Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, Machine Learning e Deep Learning.
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/andrempombo/)
+* [LinkedIn](https://www.linkedin.com/in/andrepombo/) 
 * [Medium](https://medium.com/@andrebastos85)
 
 
