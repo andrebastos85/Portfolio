@@ -8,7 +8,9 @@
   <img src="Banner1.jpg" width="1000" height="300" >
 </p>
 
-Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, Machine Learning e Deep Learning.
+:uk: Here you will find my *notebooks* on Data Science, Machine Learning e Deep Learning.
+
+:brazil: Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, Machine Learning e Deep Learning.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/andrepombo/) 
