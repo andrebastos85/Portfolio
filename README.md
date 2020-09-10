@@ -8,20 +8,22 @@
   <img src="Banner1.jpg" width="1000" height="300" >
 </p>
 
-Aqui você encontra os *notebooks* dos meus projetos na área de Data Science, Machine Learning e Deep Learning.
+- :uk: Here you will find my *notebooks* on Data Science and Machine Learning.
 
-**Links:**
-* [LinkedIn](https://www.linkedin.com/in/andrepombo/) 
-* [Medium](https://medium.com/@andrepombo)
-
+- :brazil: Aqui você encontra os *notebooks* dos meus projetos na área de Data Science e Machine Learning.
 
 ## Projects:
 * **Sentiment Analysis ImdB with Google Api:**  https://bit.ly/2Jn7RVn
 
-
-
-
 ### About me
 ---
+### Hi, I'm André 👋
 
+I'm a Brazilian Data Scientist who loves to discover new things and new insights with each new dataset, and whom also really digs data visualization.
+
+Originally graduated as an environmental engineer, I believe we can use data to make our life greener 🌱.
+
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/andrepombo/) 
+                      | [Medium](https://medium.com/@andrepombo)
+                      | andrebastos85@gmail.com 
 
