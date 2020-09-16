@@ -14,6 +14,7 @@
 
 ## Projects:
 * **Sentiment Analysis ImdB with Google Api:**  https://bit.ly/2Jn7RVn
+* **Fortaleza/Brazil Apartament Price Prediction App Online!:** https://imoveis-fortal.herokuapp.com
 
 ### About me
 ---
