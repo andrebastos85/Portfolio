@@ -5,7 +5,7 @@
 # André Pombo
 
 <p align="center">
-  <img src="Banner1.jpg" width="1000" height="300" >
+  <img src="img/Banner1.jpg" width="1000" height="300" >
 </p>
 
 - :uk: Here you will find my *notebooks* on Data Science and Machine Learning.
