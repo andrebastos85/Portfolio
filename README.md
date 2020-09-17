@@ -17,7 +17,7 @@
 * **Real State Market Analysis In Fortaleza/Brazil:** https://bit.ly/2RxP0v7
 
 ### Apps Online:
-* **Fortaleza/Brazil Apartament Price Prediction:** https://imoveis-fortal.herokuapp.com
+* **Fortaleza/Brazil Apartament Price Prediction App:** https://imoveis-fortal.herokuapp.com
 ---
 ### About me
 
