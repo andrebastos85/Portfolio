@@ -18,9 +18,9 @@
 
 ### Apps Online:
 * **Fortaleza/Brazil Apartament Price Prediction:** https://imoveis-fortal.herokuapp.com
-
-### About me
 ---
+### About me
+
 ### Hi, I'm André 👋
 
 I'm a Brazilian Data Scientist who loves to discover new things and new insights with each new dataset, and whom also really digs data visualization.
