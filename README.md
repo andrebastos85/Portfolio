@@ -14,7 +14,7 @@
 
 ## Projects:
 * **Sentiment Analysis ImdB with Google Api:**  https://bit.ly/2Jn7RVn
-* **Real State Market Analysis In Fortaleza/Brazil:** https://bit.ly/2RxP0v7
+* **Real State Market Analysis In Fortaleza/Brazil:** https://bit.ly/2FA7ZTu
 
 ### Apps Online:
 * **Fortaleza/Brazil Apartament Price Prediction App:** https://imoveis-fortal.herokuapp.com
