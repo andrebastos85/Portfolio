@@ -8,7 +8,7 @@
   <img src="img/Banner1.jpg" width="1000" height="300" >
 </p>
 
-- :🇺🇸: Here you will find my *notebooks* on Data Science and Machine Learning.
+- :uk: Here you will find my *notebooks* on Data Science and Machine Learning.
 
 - :brazil: Aqui você encontra os *notebooks* dos meus projetos na área de Data Science e Machine Learning.
 
