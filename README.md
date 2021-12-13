@@ -23,9 +23,9 @@
 
 ### Hi, I'm André 👋
 
-I'm a Brazilian Data Scientist who loves to discover new things and new insights with each new dataset, and whom also really digs data visualization.
+I'm a Brazilian Developer (Primarily Python Django) who enjoys to build and participate in interestings projects, and whom also really digs data analysis and visualization.
 
-Originally graduated as an environmental engineer, I believe we can use data to make our life greener 🌱.
+Originally graduated as an environmental engineer 🌱.
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/andrepombo/) 
                       | [Medium](https://medium.com/@andrepombo)
