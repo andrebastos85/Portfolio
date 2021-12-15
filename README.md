@@ -13,13 +13,16 @@
 - :brazil: Aqui você encontra todos os meus websites e projetos na área de Data Science.
 
 ## Projects:
+### Apps Online:
+
+* **Fortaleza/Brazil Apartament Price Prediction App:** https://imoveis-fortal.herokuapp.com
+* **Budget Control Dashboard for Food Deliveries: ** https://andrepombo-entregas.herokuapp.com/
 
 ### Data Science Notebooks:
 * **Sentiment Analysis ImdB with Google Api:**  https://bit.ly/2Jn7RVn
 * **Real State Market Analysis In Fortaleza/Brazil:** https://bit.ly/2FA7ZTu
 
-### Apps Online:
-* **Fortaleza/Brazil Apartament Price Prediction App:** https://imoveis-fortal.herokuapp.com
+
 ---
 ### About me
 
