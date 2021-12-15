@@ -8,10 +8,6 @@
   <img src="img/Banner1.jpg" width="1000" height="300" >
 </p>
 
-- :uk: Here you will find all my porfolio websites and Data Science projects.
-
-- :brazil: Aqui você encontra todos os meus websites e projetos na área de Data Science.
-
 ## Projects:
 ### Apps Online:
 
