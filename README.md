@@ -16,7 +16,7 @@
 ### Apps Online:
 
 * **Fortaleza/Brazil Apartament Price Prediction App:** https://imoveis-fortal.herokuapp.com
-* **Budget Control Dashboard for Food Deliveries:** https://andrepombo-entregas.herokuapp.com/
+* **Budget Control Dashboard for Food Deliveries (Live Demo):** https://andrepombo-entregas.herokuapp.com/
 
 
 ### Data Science Notebooks:
