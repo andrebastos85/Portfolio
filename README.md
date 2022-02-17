@@ -9,14 +9,13 @@
 </p>
 
 ## Projects:
-### Apps Online:
+
+* **Budget Control Dashboard for Food Deliveries (Live Demo):**
+#### Apps Online:
 
 * **Fortaleza/Brazil Apartament Price Prediction App:** https://imoveis-fortal.herokuapp.com
-* **Budget Control Dashboard for Food Deliveries (Live Demo):** https://andrepombo-entregas.herokuapp.com/
 * **Uber Data App - Trips Made:** https://andrepombo-dash-uber.herokuapp.com/
-
-
-### Data Science Notebooks:
+####  Data Science Notebooks:
 * **Sentiment Analysis ImdB with Google Api:**  https://bit.ly/2Jn7RVn
 * **Real State Market Analysis In Fortaleza/Brazil:** https://bit.ly/2FA7ZTu
 
