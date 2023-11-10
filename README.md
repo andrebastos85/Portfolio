@@ -15,15 +15,13 @@
 ####  Data Science Notebooks:
 
 * **Sentiment Analysis ImdB with Google Api:**  https://bit.ly/2Jn7RVn
-* **Real State Market Analysis In Fortaleza/Brazil:** https://bit.ly/2FA7ZTu
+* **Real State Market Analysis In Fortaleza/Brazil:** https://bit.ly/3uarBq6
 
 
 ---
 ### About me
 
-### Hi, I'm André 👋
-
-I'm a Brazilian Developer (Primarily Python Django) who enjoys building and participating in interesting projects, and who also really digs data analysis and visualization.
+I am a Software Developer (Primarily Python Django) who enjoys building and participating in interesting projects, and who also really digs data analysis and visualization.
 
 Originally graduated as an environmental engineer 🌱.
 
