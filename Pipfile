@@ -16,6 +16,8 @@ geopandas = "*"
 sklearn = "*"
 scikit-learn = "*"
 jupyterlab = "*"
+notebook = "*"
+ipywidgets = "*"
 
 [dev-packages]
 ipykernel = "*"
