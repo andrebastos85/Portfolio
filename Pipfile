@@ -15,9 +15,11 @@ matplotlib = "*"
 geopandas = "*"
 sklearn = "*"
 scikit-learn = "*"
+jupyterlab = "*"
 
 [dev-packages]
 ipykernel = "*"
+notebook = "*"
 
 [requires]
 python_version = "3.10"
