@@ -15,7 +15,7 @@
 ####  Data Science Notebooks:
 
 * **Sentiment Analysis ImdB with Google Api:**  https://bit.ly/2Jn7RVn
-* **Real State Market Analysis In Fortaleza/Brazil:** https://bit.ly/3uarBq6
+* **Real State Market Analysis In Fortaleza/Brazil:** https://bit.ly/3RDCkSZ
 
 
 ---
